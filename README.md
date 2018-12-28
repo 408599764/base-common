@@ -1,2 +1,2 @@
-# manage
-the simple manage project
+# base
+the simple base project
